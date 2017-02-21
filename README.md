@@ -12,12 +12,11 @@ Identifiers are made of a single uppercase character
 In the following list of commands, x mean any identifier.
 
 Commands:
-  h     affiche cette aide
-  s     affiche le statut des variables programme
-  q     quitte la simulation
-  m x   suivi d'une valeur entière positive n, affecte à x l'adresse
-        d'une variable dynamique de taille n
-  f x   libère la variable dynamique reperée par x
+  h     display this help.
+  q     exit the simulation.
+  m x   followed by a positive integer value, assign to x the adress 
+        of a dynamic vrariable of size n.
+  f x   free the variale referred by x.
 
 ## For more informations
 
