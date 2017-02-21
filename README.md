@@ -1,6 +1,6 @@
 # buddy-system
 
-This is an interactive program that simulates memory allocation on the heap following "buddy-system" strategy.
+This is an interactive program that simulates memory allocation on the heap following **buddy-system** strategy.
 
 ## Quickstart
 
